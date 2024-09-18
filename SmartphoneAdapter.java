@@ -1,4 +1,4 @@
-public class SmartphoneAdapter  implements PowerOutlet
+public class SmartphoneAdapter implements PowerOutlet
 {
     private SmartphoneCharger smartphoneCharger;
 
